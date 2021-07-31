@@ -5,7 +5,7 @@
 % Copyright 2016 - 2017 The MathWorks, Inc.
 
 %% For pair trading strategy, u is set as an n-by-2 cell array
-u = {'FANG','SYNA';'PXD','MTDR';'ADBE','CRM';'BHP','APC'};
+u = {'FANG','SYNA';'PXD','MTDR';'ADBE','CRM';'BHP','AMZN'};
 
 % Check dimension of u
 [nRowU, nColU] = size(u); 

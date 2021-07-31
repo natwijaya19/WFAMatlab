@@ -48,7 +48,7 @@ setCost
 
 % Set range of parameter to be optimized
 param = [20:5:40]; 
-nParam = length(param)
+nParam = length(param) ;
 
 % Choose optimization objectibe to maximize (2) P&L  and (3) Sharpe Ratio 
 paramType = 3; 
