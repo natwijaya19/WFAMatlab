@@ -7,8 +7,8 @@
 % Copyright 2016 - 2017 The MathWorks, Inc.
 
 %% Set global parameters and format
-clear;
-clc;
+% clear;
+% clc;
 global u nU Open Close AdjClose tDay g h x1 y1 x2 y2 uniqueTDay 
 format bank; % Use banking format for easy visualization of numeric data
 
